@@ -6,10 +6,11 @@ SETUP Commands:-
 
 1. Create Virtual Environment - uv venv
 2. Activate Virual Environment - .venv\Scripts\activate
-3. Langchain - uv add langchain-groq
-4. Openai - uv add langchain-openai
-5. MCP- uv add mcp-use
-6. Create File app.py and Setup Code
+3. Create .env file and Add Groq and Openai API Key
+4. Langchain - uv add langchain-groq
+5. Openai - uv add langchain-openai
+6. MCP- uv add mcp-use
+7. Create File app.py and Setup Code
 
 Reference Links:- 
 https://github.com/mcptutorial/mcp-use
